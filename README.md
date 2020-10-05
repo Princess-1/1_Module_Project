@@ -28,11 +28,11 @@ Bonus Q2: What is the average runtime for movies?
 ## Order of Operation
 ### Data Importing and Cleaning Process
 * Importing_Data.ipynb: As mentioned earlier this notebook contains all my data importing process. the list of libraries used to import and convert data are as follows:
-    **- OS**
-    **- GLOB**
-    **- SQLITE3**
-    **- PANDAS**
-    **- NUMPY**
+    - **OS**
+    - **GLOB**
+    - **SQLITE3**
+    - **PANDAS**
+    - **NUMPY**
     
 * Data_Cleaning_and EDA.ipynb: In this notebook I start by converting all SQL tables to Pandas DataFrame and performing the following actions:
     * Checking for _NULL VALUES_ 
@@ -44,9 +44,9 @@ Bonus Q2: What is the average runtime for movies?
 * Budget_Analysis.ipynb & Popularity_Analysis.ipynb: In these notebooks I explore the data further and use it to better understand the questions.
 
 * Final_Project.ipynb: In this notebook we finally get to answering our questions to gain actionable insight on our data. This was made possible with the help of:
-    **- MATPLOTLIB**
-    **- SEABORN**
-    **- PANDAS**
+    - **MATPLOTLIB**
+    - **SEABORN**
+    - **PANDAS**
 
 ### Further Analysis - Insights
 #### Q1: What Genre(s) should Microsoft focus on producing based on Popularity and Profits?
@@ -57,7 +57,7 @@ Bonus Q2: What is the average runtime for movies?
 #### Q2: What day(s) or months(s) should Microsoft focus on releasing movies?
 ![Day_of_week.png](images/Day_of_week.png)
 ![month.png](images/month.png)
-**Insight: Based on the first graph I would recommend releasing movies on _Fridays_. The release month does not seem to have much of an impact on the popularity of the movies.
+**Insight: Based on the first graph I would recommend releasing movies on _Fridays_. The release month does not seem to have much of an impact on the popularity of the movies.**
 
 #### Q3: Should Microsoft consider collaborating with other producing studios in other to boost profits?
 ![Studio.png](images/Studio.png)
@@ -70,7 +70,7 @@ Bonus Q2: What is the average runtime for movies?
 
 #### Bonus Q2: What is the average runtime for movies?
 ![worth_it.png](images/worth_it.png)
-**Insight: From my previous graph analyzing the profit made on movies over the years, it doesn't seem like there is a significant profit being made but with a closer look at this graph we can tell that there is still profit to be made overall.
+**Insight: From my previous graph analyzing the profit made on movies over the years, it doesn't seem like there is a significant profit being made but with a closer look at this graph we can tell that there is still profit to be made overall.**
 
 ### Summary
 With all the information I've gathered there seems to be a lot a pros and cons to investing in the movie industry but overall it would not be a bad idea to move forward with plans for producing movies.
