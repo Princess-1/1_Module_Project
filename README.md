@@ -48,27 +48,27 @@ Bonus Q2: What is the average runtime for movies?
     - **SEABORN**
     - **PANDAS**
 
-## Further Analysis - Insights
-### Q1: What Genre(s) should Microsoft focus on producing based on Popularity and Profits?
+### Further Analysis - Insights
+#### Q1: What Genre(s) should Microsoft focus on producing based on Popularity and Profits?
 ![popularity.png](images/popularity.png)
 ![profit.png](images/profit.png)
 **Insight: Based on the graphs I would strongly advise Microsoft to focus on producing movies with _Action_ and _Adeventure_. Mixing in a little _Comedy_ and _Sci-Fi_ would be greatly benefitial aswell.**
 
-### Q2: What day(s) or months(s) should Microsoft focus on releasing movies?
+#### Q2: What day(s) or months(s) should Microsoft focus on releasing movies?
 ![Day_of_week.png](images/Day_of_week.png)
 ![month.png](images/month.png)
 **Insight: Based on the first graph I would recommend releasing movies on _Fridays_. The release month does not seem to have much of an impact on the popularity of the movies.**
 
-### Q3: Should Microsoft consider collaborating with other producing studios in other to boost profits?
+#### Q3: Should Microsoft consider collaborating with other producing studios in other to boost profits?
 ![Studio.png](images/Studio.png)
 **Insight: My recommendation based on this graph would be for Microsoft to consider collaborating with other Studios to boost profits.**
 
-### Bonus Q1: Is the Movie making Industy still profitable?
+#### Bonus Q1: Is the Movie making Industy still profitable?
 ![profit_year.png](images/profit_year.png)
 ![budget.png](images/budget.png)
 **Insight: Based on the first graph it seems the profit earned from producing movies seems to increase gradually but not as drastically as you would expect. On the other had it's clear that the amount spent on producing movies have increased drastically over the last half-century.**
 
-### Bonus Q2: What is the average runtime for movies?
+#### Bonus Q2: What is the average runtime for movies?
 ![worth_it.png](images/worth_it.png)
 **Insight: From my previous graph analyzing the profit made on movies over the years, it doesn't seem like there is a significant profit being made but with a closer look at this graph we can tell that there is still profit to be made overall.**
 
