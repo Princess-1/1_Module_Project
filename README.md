@@ -19,11 +19,11 @@ For this project, I was provided with multiple datasets:
 ## Insights
 The goal of this project is to find information on how Microsoft can dominate the movie industry in other to achieve that we we'll try to answer the following questions with the datas provided.
 
-Q1: What Genre(s) should Microsoft focus on producing based on Popularity and Profits?
-Q2: What day(s) or months(s) should Microsoft focus on releasing movies?
-Q3: Should Microsoft consider collaborating with other producing studios in other to boost profits?
-Bonus Q1: Is the Movie making Industy still profitable?
-Bonus Q2: What is the average runtime for movies?
+* Q1: What Genre(s) should Microsoft focus on producing based on Popularity and Profits?
+* Q2: What day(s) or months(s) should Microsoft focus on releasing movies?
+* Q3: Should Microsoft consider collaborating with other producing studios in other to boost profits?
+* Bonus Q1: Is the Movie making Industy still profitable?
+* Bonus Q2: What is the average runtime for movies?
 
 ## Order of Operation
 ### Data Importing and Cleaning Process
